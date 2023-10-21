@@ -1,0 +1,16 @@
+
+body{
+    background: rgb(17,16,16);
+background: linear-gradient(86deg, rgba(17,16,16,1) 0%, rgba(20,20,20,1) 11%, rgba(81,81,82,1) 36%, rgba(43,42,42,1) 36%);
+}
+
+
+
+
+
+
+@media (max-width: 767px) {
+    /* Adjust styles for mobile screens if necessary */
+}
+
+/* Add any other custom styles as needed */
